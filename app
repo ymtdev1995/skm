@@ -3,11 +3,11 @@
 "links":[
 {"message":"Gameကစားရန် ဆက်သွယ်ပါ",
 "title":"viber",
-"url":"https://cutt.ly/iw2BH3l6"
+"url":"cutt.ly/iw2BH3l6"
 },
 {"message":"Gameကစားရန် ဆက်သွယ်ပါ",
 "title":"Telegram",
-"url":"https://cutt.ly/Fw2BVFcd"
+"url":"cutt.ly/Fw2BVFcd"
 }
 ]
 
