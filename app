@@ -1,13 +1,13 @@
 {"top_image":"https://buupartymovie001.files.wordpress.com/2023/12/img_20231205_121138_995.jpg",
-"top_image_url":"https://t.me/Onetv2023",
+"top_image_url":"https://https://cutt.ly/iw2BH3l6",
 "links":[
 {"message":"Gameကစားရန် ဆက်သွယ်ပါ",
 "title":"viber",
-"url":"cutt.ly/iw2BH3l6"
+"url":"https://cutt.ly/iw2BH3l6"
 },
 {"message":"Gameကစားရန် ဆက်သွယ်ပါ",
 "title":"Telegram",
-"url":"cutt.ly/Fw2BVFcd"
+"url":"https://cutt.ly/Fw2BVFcd"
 }
 ]
 
