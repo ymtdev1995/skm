@@ -3,11 +3,11 @@
 "links":[
 {"message":"Gameကစားရန် ဆက်သွယ်ပါ",
 "title":"viber",
-"url":"https://t.me/Onetv2023"
+"url":"https://cutt.ly/3w17BCjt"
 },
 {"message":"Gameကစားရန် ဆက်သွယ်ပါ",
 "title":"Telegram",
-"url":"https://t.me/Onetv2023"
+"url":"https://cutt.ly/vw0Rk2Fn"
 }
 ]
 
